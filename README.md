@@ -90,4 +90,8 @@ O projeto evoluiu de um **modelo básico de cadastro** para uma **modelagem rela
 - Sofia Leitão de Azevedo
 - Tamirys Maria da Silva Costa  
 
+## 🌐 LinkedIn
 
+- Abigail → https://www.linkedin.com/in/abigail-nazario
+- Sofia → https://www.linkedin.com/in/sofialeitaodeazevedo
+- Tamirys → https://www.linkedin.com/in/tamirys-maria-75107735a
